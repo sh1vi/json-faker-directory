@@ -1,7 +1,24 @@
-{
-  "profiles": [
-    { "id": 1, "name": "john", "age": 21 },
-    { "id": 2, "name": "judy", "age": 31 },
-    { "id": 3, "name": "jack", "age": 41 }
-  ]
-}
+[
+        {
+            "name":"Raj",
+            "email":"raj@gmail.com",
+            "mobile":"1234567890"
+        },
+        
+        {
+            "name":"Raja",
+            "email":"raja@gmail.com",
+            "mobile":"2234567890"
+        },
+        {
+            "name":"Rajat",
+            "email":"rajat@gmail.com",
+            "mobile":"1234567888"
+        },
+        
+        {
+            "name":"Rajan",
+            "email":"rajan@gmail.com",
+            "mobile":"2234567840"
+        }
+    ]
